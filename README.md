@@ -112,3 +112,7 @@ android:dialogTitle 弹出的对话框中的标题信息
 </PreferenceScreen>
 
 运行结果：
+
+1）总体界面
+
+![image](https://github.com/Peiqiye/image/blob/master/1.png)
