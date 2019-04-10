@@ -115,7 +115,7 @@ android:dialogTitle 弹出的对话框中的标题信息
 
 1）总体界面
 <p align="center">
-	<img src="https://github.com/Peiqiye/image/blob/master/1.png" alt="Sample"  width="250" height="140">
+	<img src="https://github.com/Peiqiye/image/blob/master/1.png" alt="Sample"  width="350" height="540">
 	<p align="center">
 		<em>总体界面/em>
 	</p>
