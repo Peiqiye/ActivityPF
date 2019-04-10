@@ -122,4 +122,44 @@ android:dialogTitle 弹出的对话框中的标题信息
 	</p>
 </p>
 
+2)可编辑对话框
+<p align="center">
+	<img src="https://github.com/Peiqiye/image/blob/master/3.png" alt="Sample"  width="350" height="540">
+	<p align="center">
+		<em>可编辑对话框</em>
+	</p>
+</p>
 
+3)列表对话框
+<p align="center">
+	<img src="https://github.com/Peiqiye/image/blob/master/4.png" alt="Sample"  width="350" height="540">
+	<p align="center">
+		<em>列表对话框</em>
+	</p>
+</p>
+
+4)点击显示另一个首选项配置页面
+<p align="center">
+	<img src="https://github.com/Peiqiye/image/blob/master/5.png" alt="Sample"  width="350" height="540">
+	<p align="center">
+		<em>页面跳转</em>
+	</p>
+</p>
+
+
+5)意图中启动一个Activity
+<p align="center">
+	<img src="https://github.com/Peiqiye/image/blob/master/6.png" alt="Sample"  width="350" height="540">
+	<p align="center">
+		<em>页面跳转</em>
+	</p>
+</p>
+
+
+4)父类与子类复选框
+<p align="center">
+	<img src="https://github.com/Peiqiye/image/blob/master/7.png" alt="Sample"  width="350" height="540">
+	<p align="center">
+		<em>父子类</em>
+	</p>
+</p>
